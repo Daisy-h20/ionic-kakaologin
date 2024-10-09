@@ -1,0 +1,21 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="plugin.kakaologin.knc" >
+4
+5    <uses-sdk android:minSdkVersion="23" />
+6
+7    <queries>
+7-->/Users/hyseo/Desktop/kakao-login/android/src/main/AndroidManifest.xml:3:5-5:15
+8        <package android:name="com.kakao.talk" />
+8-->/Users/hyseo/Desktop/kakao-login/android/src/main/AndroidManifest.xml:4:9-50
+8-->/Users/hyseo/Desktop/kakao-login/android/src/main/AndroidManifest.xml:4:18-47
+9    </queries>
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/Users/hyseo/Desktop/kakao-login/android/src/main/AndroidManifest.xml:7:9-71
+11-->/Users/hyseo/Desktop/kakao-login/android/src/main/AndroidManifest.xml:7:26-68
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->/Users/hyseo/Desktop/kakao-login/android/src/main/AndroidManifest.xml:8:5-79
+12-->/Users/hyseo/Desktop/kakao-login/android/src/main/AndroidManifest.xml:8:22-76
+13
+14</manifest>

@@ -1,0 +1,31 @@
+{
+  "api": {
+    "name": "kakaoLoginPlugin",
+    "slug": "kakaologinplugin",
+    "docs": "",
+    "tags": [],
+    "methods": [
+      {
+        "name": "kakaoLogin",
+        "signature": "(options: { appKey: string; }) => Promise<{ email: string; }>",
+        "parameters": [
+          {
+            "name": "options",
+            "docs": "",
+            "type": "{ appKey: string; }"
+          }
+        ],
+        "returns": "Promise<{ email: string; }>",
+        "tags": [],
+        "docs": "",
+        "complexTypes": [],
+        "slug": "kakaologin"
+      }
+    ],
+    "properties": []
+  },
+  "interfaces": [],
+  "enums": [],
+  "typeAliases": [],
+  "pluginConfigs": []
+}
